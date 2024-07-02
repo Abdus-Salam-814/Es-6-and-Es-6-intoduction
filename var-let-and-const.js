@@ -31,3 +31,13 @@ const student = {
 }
 student.name = 'kokil konthi'
 console.log(student);
+
+// loop
+
+let sum = 0;
+for(let i = 0; i < 10; i++){
+    const num = i;
+    sum = sum + num;
+}
+
+console.log(sum);
