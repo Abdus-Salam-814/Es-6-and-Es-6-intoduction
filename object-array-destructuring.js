@@ -30,3 +30,5 @@ console.log(x, y, z)
 
  const [first, secend] = doubleThem(6, 9);
  console.log(first, secend);
+
+ 
